@@ -1,0 +1,22 @@
+
+
+Robot Class
+
+
+attributes:
+Joints Values
+Link Lenghths
+Number of Joints
+
+
+Methods:
+Calculate the Fkine
+
+
+
+Attributes of the Robot Class
+
+
+Get Joint Values
+Get Cartesian Corrdinates
+Get Current TTool
